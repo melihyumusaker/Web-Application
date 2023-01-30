@@ -1,0 +1,42 @@
+#misyon{
+    border: 0.5rem outset pink;
+  outline: 0.5rem solid khaki;
+  box-shadow: 0 0 0 2rem skyblue;
+  border-radius: 12px;
+  font: bold 1rem sans-serif;
+  margin: 2rem;
+  padding: 1rem;
+  outline-offset: 0.5rem;
+  padding-top: 10px;
+}
+
+#misyonh2{
+    text-align: center;
+    color: blueviolet;
+}
+#vizyon{
+    text-align: center;
+    color: blueviolet;
+
+}
+
+
+
+#iletisim{
+    border: 0.5rem outset rgb(25, 117, 102);
+  outline: 0.5rem solid rgb(116, 36, 112);
+  box-shadow: 0 0 0 2rem skyblue;
+  border-radius: 12px;
+  font: bold 1rem sans-serif;
+  margin: 2rem;
+  padding: 1rem;
+  outline-offset: 0.5rem;
+  padding-top: 10px;
+  text-align: center;
+}
+
+
+#iletisimh2{
+    text-align: center;
+    color: rgb(187, 109, 19);
+}
